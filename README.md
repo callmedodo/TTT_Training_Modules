@@ -1,7 +1,6 @@
 # TTT_Training_Modules
 Arma 3 additional Zeus addons to support training
 ## Modules
-Folowing modules will be added
 ### Open Spectator Camera
 ### Interrupt Training
 ### Add 3D Symbol
